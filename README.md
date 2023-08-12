@@ -9,6 +9,6 @@ Regression is a statistical technique of fundamental importance to science becau
 In real world situations, particularly when little data are available, regression models are very useful for making predictions. For example, if a company that rents bicycles wants to predict the expected number of rentals on a given day in the future, a regression model can predict this number. You could create a model using existing data, such as the number of bicycles that were rented on days where the season, day of the week, and so on, were also recorded.
 
 # Prerequisites
-*Knowledge of basic mathematics
-*Some experience programming in Python
-*Familiarity with Jupyter notebooks
+* Knowledge of basic mathematics
+* Some experience programming in Python
+* Familiarity with Jupyter notebooks
